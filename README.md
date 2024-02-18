@@ -8,4 +8,4 @@ The application architecture is divided into two main components: a Node.js back
 
 
 ## Deploy
-You have 2 options to run this application. If you have access to run the backend of this application on the [lehre.bpm server](https://lehre.bpm.in.tum.de/), you can jump here: [BPMWS24Prakt-lehre](https://github.com/niclasgrunau/BPMWS24Prak-Lehre). If not, you have to run it locally: [dmyo-pnp-localhost](https://github.com/niclasgrunau/DYMO-PNP-API)
+You have 2 options to run this application. If you have access to run the backend of this application on the [lehre.bpm server](https://lehre.bpm.in.tum.de/), you can jump here: [BPMWS24Prak-Lehre](https://github.com/niclasgrunau/BPMWS24Prak-Lehre). If not, you have to run it locally: [dmyo-pnp-localhost](https://github.com/niclasgrunau/DYMO-PNP-API)
