@@ -1,4 +1,4 @@
-# BPMWS24Prakt
+# BPMWS24Prak
 
 This project introduces a comprehensive web application built on the MERN (MongoDB, Express, React, Node.js) stack, tailored for customizable label printing with seamless integration of a DYMO PNP LabelManager. The primary objective is to provide users with a robust platform where they can effortlessly create, customize, and print labels according to their specific requirements.
 
